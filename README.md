@@ -1,4 +1,4 @@
-URL: o
+URL: https://www.bks.hr/o-nama/novosti
 
 Spider name: bkshr
 DB Schema:
